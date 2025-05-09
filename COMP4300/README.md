@@ -1,0 +1,1 @@
+Geometry is 2D game made with C++ and SFML. Player uses wasd key to control movement and uses left mouse button to shoot to enemy.

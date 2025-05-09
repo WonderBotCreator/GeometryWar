@@ -1,0 +1,3 @@
+Texture TexWizardStand images/wizard/Idle.png
+Animation WizardStand TexWizardStand 1 0
+font roboto fonts/roboto.ttf
